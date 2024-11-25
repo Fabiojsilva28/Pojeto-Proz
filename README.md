@@ -3,6 +3,7 @@ Criação de EC2
 
 Projeto criar Instancia EC2, Conectar usando SSH, Criar um Volume Elastic Block Store e anexar Instância, Criar um arquivo, Exploração de recursos
 
+
 1- Instância EC2 
 
 A seguir serão mostrado prints de como foi criada a instância no console da AWS.
@@ -27,7 +28,8 @@ Sucesso na instalação.
 <a href="https://postimg.cc/2q4vgYDv" target="_blank"><img src="https://i.postimg.cc/BvzgLZ7h/6.png" alt="6"/></a><br/><br/>
 <a href="https://postimg.cc/Zvqd9yyF" target="_blank"><img src="https://i.postimg.cc/prfY6fW7/7.png" alt="7"/></a><br/><br/>
 
-2- conexão SSH
+
+2- conexão SSH:
 
 Para conseguirmos acessar remotamente a instância pelo windows é preciso a instalação do software Putty.
 
@@ -46,3 +48,34 @@ Utilizando a Chave Privada
 Acesso a Instância
 
 <a href="https://postimg.cc/ZvCD8H9w" target="_blank"><img src="https://i.postimg.cc/90p5jNcH/12.png" alt="12"/></a><br/><br/>
+
+
+3- Criar Volume Elastic Block Store e anexar a Instância:
+
+Criando o Volume Elastic Block Store.
+
+<a href="https://postimg.cc/B8wFLfFP" target="_blank"><img src="https://i.postimg.cc/85TmY1P4/15.png" alt="15"/></a><br/><br/>
+<a href="https://postimg.cc/4779p2vL" target="_blank"><img src="https://i.postimg.cc/wvFQ8S1p/16.png" alt="16"/></a><br/><br/>
+
+
+Volume criado.
+
+<a href="https://postimg.cc/sBTKDLKv" target="_blank"><img src="https://i.postimg.cc/B60zN9Kc/17.png" alt="17"/></a><br/><br/>
+
+Como Anexar o volume criado a uma Instância.
+
+<a href="https://postimg.cc/XGRyLKQV" target="_blank"><img src="https://i.postimg.cc/PJxzt2D8/18.png" alt="18"/></a><br/><br/>
+
+Volume Anexado a Instância Meu Servidor WEB.
+
+<a href="https://postimg.cc/CZfDWLdM" target="_blank"><img src="https://i.postimg.cc/BvmgPj0F/19.png" alt="19"/></a><br/><br/>
+
+
+4- Criar Arquivo na Instância
+
+<a href='https://postimg.cc/QFsm3714' target='_blank'><img src='https://i.postimg.cc/2SLKnF6D/Captura-de-tela-2024-11-25-191419.png' border='0' alt='Captura-de-tela-2024-11-25-191419'/></a>
+
+
+5- Explorando Recursos
+
+
