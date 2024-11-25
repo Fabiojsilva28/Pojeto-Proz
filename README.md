@@ -26,3 +26,23 @@ Sucesso na instalação.
 
 <a href="https://postimg.cc/2q4vgYDv" target="_blank"><img src="https://i.postimg.cc/BvzgLZ7h/6.png" alt="6"/></a><br/><br/>
 <a href="https://postimg.cc/Zvqd9yyF" target="_blank"><img src="https://i.postimg.cc/prfY6fW7/7.png" alt="7"/></a><br/><br/>
+
+2- conexão SSH
+
+Para conseguirmos acessar remotamente a instância pelo windows é preciso a instalação do software Putty.
+
+Precisamos do IP público da instância para conseguir acesso através do Putty
+
+<a href="https://postimg.cc/TyJSfpMJ" target="_blank"><img src="https://i.postimg.cc/zfs1wgx6/9.png" alt="9"/></a><br/><br/>
+
+Inserindo o IP Público
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/FR0XTHqR/10.png" alt="10"/></a><br/><br/>
+
+Utilizando a Chave Privada
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/yxB4tz4T/11.png" alt="11"/></a><br/><br/>
+
+Acesso a Instância
+
+<a href="https://postimg.cc/ZvCD8H9w" target="_blank"><img src="https://i.postimg.cc/90p5jNcH/12.png" alt="12"/></a><br/><br/>
