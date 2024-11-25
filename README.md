@@ -78,4 +78,7 @@ Volume Anexado a Instância Meu Servidor WEB.
 
 5- Explorando Recursos
 
+<a href='https://postimg.cc/qh3Q0HM0' target='_blank'><img src='https://i.postimg.cc/Kz9WPm6K/Captura-de-tela-2024-11-25-192449.png' border='0' alt='Captura-de-tela-2024-11-25-192449'/></a>
+
+
 
