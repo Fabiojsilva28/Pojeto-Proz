@@ -1,4 +1,4 @@
-# Pojeto-Proz
+# Projeto-Proz
 Criação de EC2
 
 Projeto criar Instancia EC2, Conectar usando SSH, Criar um Volume Elastic Block Store e anexar Instância, Criar um arquivo, Exploração de recursos
